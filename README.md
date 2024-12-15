@@ -61,31 +61,31 @@ __- Features:__
 - Channel Slicer;
 - Category Slicer.
 
- the all dashboard [](clothing--store.PNG)
+ the all dashboard ![](clothing--store.PNG)
 
 ___1. Orders vs Sales;___
 
-[](order-vs-sales.PNG)
+![](order-vs-sales.PNG)
 
 ___2. Sales : Men vs Women;___
 
-[](men-vs-women.PNG)
+![](men-vs-women.PNG)
 
 ___3. Orders Status;___
 
-[](order-status.PNG)
+![](order-status.PNG)
 
 ___4. Sales : Top 5 States;___
 
-[](top-5-states.PNG)
+![](top-5-states.PNG)
 
 ___5. Relation between age and gender;___
 
-[](age-vs-gender.PNG)
+![](age-vs-gender.PNG)
 
 ___6. Orders : Channels.___
 
-[](order-channels.PNG)
+![](order-channels.PNG)
 
 ### ❎ Conclusion and Recommendations:
 
