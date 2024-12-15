@@ -67,7 +67,7 @@ ___1. Orders vs Sales;___
 
 ![](order-vs-sales.PNG)
 
-_There is a significant range of every coffee type name in all periods, but Arabica and Luberica register a highest worth between juin 2021 and febrary 2022 with 841 $ and 844 $ . 🤓_
+_March, January and February are the months which marked the top sales with ___1.92 M,1.88 M and 1.82 M___ sum of amount and ___2819,2750 and 2720___ orders. 🤓_
 
 ___2. Sales : Men vs Women;___
 
@@ -79,7 +79,7 @@ ___3. Orders Status;___
 
 ![](order-status.PNG)
 
-_There is a significant range of every coffee type name in all periods, but Arabica and Luberica register a highest worth between juin 2021 and febrary 2022 with 841 $ and 844 $ . 🤓_
+_this store deliver in 2022 more than ___28641___ orders . 🤓_
 
 ___4. Sales : Top 5 States;___
 
