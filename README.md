@@ -2,7 +2,6 @@
 
 ![](clothing-store.jpg)
 ---
-
 ## Introduction
 
 This is a Vrinda Clothing dashboard who sales Manager can understand their customers and grow more sales in 2023 ,by Order ID, Customers ID etc...
