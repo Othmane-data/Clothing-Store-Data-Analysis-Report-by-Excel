@@ -18,16 +18,17 @@ My final [dashboard](https://github.com/Othmane-data/Clothing-Store-Data-Analysi
 2. which month got the highest sales and orders?
 3. Who purchased more, men or women in 2022?
 4. What are different order status in 2022?
-5. List top 10 States contributing to the sales.
+5. List top 5 States contributing to the sales.
 6. Relation between age and gender based on number of orders .
 7. Which channel is contributing to maximum sales?
-8. Highest selling category?
 
 ## Skills/ concepts demonstrated
 
-- 🧮 Formulas and Functions
+- 🧮 Data Cleaning and Data Processing
 - 📉 Charts and Visualization
 - ❎ Conclusion and Recommendations
+
+### 🧮 Data Cleaning and Data Processing :
 
 - Age group,Mounth;
 ```
@@ -37,4 +38,57 @@ My final [dashboard](https://github.com/Othmane-data/Clothing-Store-Data-Analysi
 - Mounth=TEXT(G2,"mmm")
 ```
 
+### 📉 Charts and Visualization :
 
+The report comprises 6 charts:
+
+___1. Orders vs Sales;___
+
+___2. Sales : Men vs Women;___
+
+___3. Orders Status;___
+
+___4. Sales : Top 5 States;___
+
+___5. Relation between age and gender;___
+
+___6. Orders : Channels.___
+
+we're use the pivot table for every shart
+
+__- Features:__
+- Order Date by Mounth Timeline;
+- Channel Slicer;
+- Category Slicer.
+
+ the all dashboard [](clothing--store.PNG)
+
+___1. Orders vs Sales;___
+
+[](order-vs-sales.PNG)
+
+___2. Sales : Men vs Women;___
+
+[](men-vs-women.PNG)
+
+___3. Orders Status;___
+
+[](order-status.PNG)
+
+___4. Sales : Top 5 States;___
+
+[](top-5-states.PNG)
+
+___5. Relation between age and gender;___
+
+[](age-vs-gender.PNG)
+
+___6. Orders : Channels.___
+
+[](order-channels.PNG)
+
+### ❎ Conclusion and Recommendations:
+
+Illinois has the highest impact on income although relatively negligible.
+There are 128 products in the stores with a worth of 140 million dollars. 😄
+#Recommendation: For a deep dive into the analytics, the datasets of the previous years will be required for comparison and data driven decision making.
