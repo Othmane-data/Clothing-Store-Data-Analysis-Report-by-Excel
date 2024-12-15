@@ -73,7 +73,7 @@ ___2. Sales : Men vs Women;___
 
 ![](men-vs-women.PNG)
 
-_There is a significant range of every coffee type name in all periods, but Arabica and Luberica register a highest worth between juin 2021 and febrary 2022 with 841 $ and 844 $ . 🤓_
+_Women are more likely to buy compared to men with 65% . 🤓_
 
 ___3. Orders Status;___
 
@@ -85,23 +85,21 @@ ___4. Sales : Top 5 States;___
 
 ![](top-5-states.PNG)
 
-_There is a significant range of every coffee type name in all periods, but Arabica and Luberica register a highest worth between juin 2021 and febrary 2022 with 841 $ and 844 $ . 🤓_
+_MAHARASHTRA,KARNATAKA and UTTAR PRADESH are the top 3 states with 69,54 % . 🤓_
 
 ___5. Relation between age and gender;___
 
 ![](age-vs-gender.PNG)
 
-_There is a significant range of every coffee type name in all periods, but Arabica and Luberica register a highest worth between juin 2021 and febrary 2022 with 841 $ and 844 $ . 🤓_
+_Adult age group (30-49 yrs) is max contributing 50 %  . 🤓_
 
 ___6. Orders : Channels.___
 
 ![](order-channels.PNG)
 
-_There is a significant range of every coffee type name in all periods, but Arabica and Luberica register a highest worth between juin 2021 and febrary 2022 with 841 $ and 844 $ . 🤓_
+_Amazon,Flipkart and Myntra channels are max contributing 80 % . 🤓_
 
 ### ❎ Conclusion and Recommendations:
 
-Illinois has the highest impact on income although relatively negligible.
-There are 128 products in the stores with a worth of 140 million dollars. 😄
+Target __Women__ customers of age group __30-49__ yrs living in ___MAHARASHTRA,KARNATAKA and UTTAR PRADESH___ by showing ads/offers/coupons available on ___Amazon,Flipkart and Myntra___. 😄
 
-__Recommendation: For a deep dive into the analytics, the datasets of the previous years will be required for comparison and data driven decision making.
